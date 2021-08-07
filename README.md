@@ -1,1 +1,1 @@
-Code pointing to an article titled: How to create a responsive navbar with Bootstrap using the vue router
+Guide on how to port bootstrap navbar to vue.js without any hassle.
